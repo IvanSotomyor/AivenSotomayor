@@ -4,7 +4,7 @@ This is Iván Sotomayor.
 - Attending at [TECNM Campus Hermosillo](http://www.ith.mx/).
 
 ### 📌 I'm still learning.
-This is a space where I can show off some of my work using statistics, managing data science projects and deploying machine learning modelos, so regular updates on the profile can be expected.
+This is a space where I can show off some of my work using statistics, managing data science projects and deploying machine learning models, so regular updates on the profile can be expected.
 
 My next goal is to work on my own portfolio.
 
